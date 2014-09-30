@@ -1,9 +1,5 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  source: MyString
-  watched: 
-
-two:
-  source: MyString
-  watched: 
+episode1:
+  source: rubytapas-video1.mp4
+  watched: false
